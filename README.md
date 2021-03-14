@@ -21,5 +21,6 @@ import java.util.ArrayList;
         fileHandler.WriteAsData(taskArrayList);
         fileHandler.readASData();
 ```
+![Example2](https://github.com/Nouribaher/TodoList/blob/main/Screenshot1.png)
 ![Example1](/Users/sda-01-mbpro/TodoList/src/Screenshot1.png)
 
