@@ -1,5 +1,10 @@
 # TodoList Project
-This application simulation a a to-do list application to help you keep track the TODO list and chosse what you need to do.
+This application simulation a a To-do list application to help you keep track the TODO list and chosse what you need to do.
+## UML-Class-Diagram
+UML (Unified Modeling Language) means that it is a way of representing the structure of Todo lists that includes classes, objects, packages, and the relationships between those elements.
+![Example1](https://github.com/Nouribaher/TodoList/blob/main/TodoList-UML-Diagram.png)
+
+
 ## Getting Started
 This application can be run directly via TodoList or via generated jar file.
 
@@ -22,5 +27,4 @@ import java.util.ArrayList;
         fileHandler.readASData();
 ```
 ![Example2](https://github.com/Nouribaher/TodoList/blob/main/Screenshot1.png)
-![Example1](/Users/sda-01-mbpro/TodoList/src/Screenshot1.png)
 
